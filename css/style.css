@@ -23,7 +23,7 @@
     background-color: #c8eeff;
     color: #187584;
 }
-#barra2{
+.barra2{
     float: left;
     margin-right: 2rem;
     margin-left: 1rem;
@@ -32,12 +32,12 @@
 ._15uGWh{
     margin-left: 36rem;
 }
-#inicio{
+.inicio{
     background-color: rgb(250, 250, 250);
     width: 100%;
     height: 31rem;
 }
-#image{
+.image{
     float: left;
     width: 10rem;
     height: 10rem;
@@ -126,7 +126,7 @@
 #segunda{
     background-color: rgb(222, 222, 222);
     width: 100%;
-    height: 300rem;
+    height: 190rem;
 }
 #navegacaoSegunda{
     margin-top: 1rem;
@@ -230,4 +230,39 @@
 .divYouMight{
     margin-top: 168rem;
     margin-left: -42rem;
+}
+.imgMiniCard{
+    width: 9rem;
+    height: 9rem;
+    margin-top: 4rem;
+    margin-left: -9rem;
+}
+.textImgMiniCard{
+    margin-top: 10.7rem;
+    margin-left: -8rem;
+}
+.textImgMiniCard2{
+    margin-top: 13.5rem;
+    margin-left: -8.7rem;
+}
+.divTextMiniCard2{
+    background-color: #c8eeff;
+    width: 4rem;
+    height: 11rem;
+    margin-top: 4rem;
+    margin-left: -9rem;
+}
+.continuacao{
+    margin-top: -9rem;
+    margin-left: 28.5rem;
+    width: 3rem;
+    height: 3rem;
+}
+.textFindTutors{
+    margin-left: -8.5rem;
+}
+.terceira{
+    background-color: rgb(78, 78, 87);
+    width: 100%;
+    height: 80rem;
 }
