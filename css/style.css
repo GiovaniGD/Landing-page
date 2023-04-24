@@ -303,3 +303,15 @@
 .imgAlemanha{
     width: 1.7rem;
 }
+.cardInicio{
+    width: 20rem;
+    margin-top: 5rem;
+    margin-left: 65rem;
+}
+.circle{
+    background-color: #26a9bd;
+    width: 4.5rem;
+    height: 4.5rem;
+    margin-left: 38rem;
+    margin-top: -17.5rem;
+}
